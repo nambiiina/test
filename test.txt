@@ -2,3 +2,5 @@ Test file !!!
 edit master !
 edit 1
 edit 2
+edit new_branch !
+edit 1
