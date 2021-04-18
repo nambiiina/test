@@ -6,3 +6,6 @@ edit new_branch !
 edit 1
 edit 2
 edit 3
+edit new_branch_2
+edit 1
+edit 2
