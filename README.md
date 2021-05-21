@@ -1,4 +1,3 @@
 Test
-two branches :
- - new_branch
+One branche :
  - new_branch_2
